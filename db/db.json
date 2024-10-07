@@ -88,17 +88,6 @@
         "Cheddar"
       ],
       "status": "Solicitado"
-    },
-    {
-      "id": "99d9",
-      "nome": "Inês",
-      "carne": "carne.tipo",
-      "pao": "pao.tipo",
-      "opcionais": [
-        "Bacon",
-        "Cheddar"
-      ],
-      "status": "Solicitado"
     }
   ]
 }
